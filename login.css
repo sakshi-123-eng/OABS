@@ -1,0 +1,23 @@
+.bg
+{
+    background: purple;
+    background-size: 100% 100%;
+    width: 100%;
+    height: 100vh;
+}
+.form-container
+{
+    border: 2px solid #fff;
+    padding: 30px 30px;
+    margin-top: 150px;
+    margin-left: 60px;
+    width: 350px;
+    text-shadow:3px 3px 3px black;
+}
+.head
+{
+    font-size: 25px;
+    font-weight: bold;
+    text-shadow: none;
+    color: #000;
+}

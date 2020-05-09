@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding:0;
+    }
+.bg
+{
+    background-color: purple;
+    background-size: 100% 100%;
+    padding: 0;
+}
+
+.form-container
+{
+    border: 2px solid #fff;
+    padding: 30px 30px;
+    margin-top: 10px;
+    margin-left: 10px;
+    
+    text-shadow:3px 3px 3px black;
+}
+.head
+{
+    font-size: 25px;
+    font-weight: bold;
+    text-shadow: none;
+    color: #000;
+}
